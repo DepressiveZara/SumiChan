@@ -1,6 +1,6 @@
-# Sumi-chan-bot
+# Sumi-Chan
 
-**Bot Sumi-chan Version 2.0.2**
+**Bot Sumi-Chan Version 2.0.2**
 
 Để lấy toàn bộ lệnh của bot bạn có thể sử dụng lệnh !help hoặc đọc ở bên dưới cái readme này!
 
@@ -134,6 +134,4 @@ Cám ơn vì đã tin tưởng bot của tớ <3 | nếu có lỗi gì xin vui l
 ![Preview](previews/preview1.jpg)
 ![Preview](previews/preview2.jpg)
 
-**Demo**
-
-[Kẹo Sữa (Sumi-Chan)](https://facebook.com/Catalizcs.SumiChan)
+--------------------------------------------------
