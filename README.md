@@ -2,7 +2,7 @@
 
 **Bot Sumi-Chan Version 2.0.2**
 
-Để lấy toàn bộ lệnh của bot bạn có thể sử dụng lệnh !help hoặc đọc ở bên dưới cái readme này!
+Để lấy toàn bộ lệnh của bot bạn có thể sử dụng lệnh help hoặc đọc ở bên dưới cái readme này!
 
 Để có thể sử dụng bot, bạn phải cài nodejs và npm, và một tài khoản facebook có bật 2 lớp bảo mật theo nhận mã. Sau đây là hướng dẫn:
 
